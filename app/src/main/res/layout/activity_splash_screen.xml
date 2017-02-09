@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relatively"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/brainsplash"
+    android:orientation="vertical"
+    android:weightSum="1" >
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+
+        android:text="NeuroBooster"
+        android:layout_weight="1"
+        android:textColor="#8707f6"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:gravity="center"
+        android:text="It's nothing behind your intelligence...."
+        android:layout_weight="1"
+        android:textColor="#8707f6"
+        android:textSize="18sp"
+        android:textStyle="bold|italic"
+        />
+
+</LinearLayout>
