@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/b7">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:inputType="textMultiLine"
+        android:text="NeuroBooster 1.0"
+        android:textColor="#ffffff"
+        android:textSize="34.0sp"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/play"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="15dp"
+        android:background="#000"
+        android:gravity="center"
+        android:text="play"
+        android:textSize="25.0sp"
+        android:textColor="#ffffff"
+        android:onClick="btnPlayClick"
+        />
+    <Button
+        android:id="@+id/stats"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="40dp"
+        android:background="#000"
+        android:gravity="center"
+        android:text="stats"
+        android:textColor="#ffffff"
+        android:textSize="25.0sp"
+        android:onClick="onStat"/>
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="100dp"
+        android:background="#fff"
+        android:gravity="center"
+        android:text="exit"
+        android:textColor="#000000"
+        android:textSize="25.0sp"
+        android:onClick="onExit"/>
+
+
+</LinearLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/b7">
+    <TextView
+        android:layout_marginTop="18dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Instructions!!!"
+        android:layout_weight="0.00"
+        android:textColor="#f61147"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="347dp"
+        android:layout_height="382dp"
+        android:textStyle="bold"
+        android:inputType="none"
+        android:id="@+id/editText"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="1dp"
+
+        android:text="This test is prepared to calculate your IQ score in different fields.
+        You have 40 minutes to answer 39 questions. You are not rewarded for finishing before time is up-so take your time!
+        Wrong answers do not influence your result-so guess rather than omit a question!
+        When you answer a question, you don't have a chance to go back to check it again.
+         You shouldn't use any pen/paper/internet search etc. while on the test.
+
+        Good luck with the test!!"
+        android:textColor="@android:color/holo_blue_bright"
+        android:clickable="false"
+        android:editable="false" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="play"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:onClick="btnInsPlayClick"/>
+</LinearLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_dc7fbbd17620720cb99e03e0fb7fd0d5229e8932.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_7d56fcd08dcf830cbc66c9b6a26ecc5060da41bd.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_02a720c55b169549491e301a3148e2379badbb8a.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_0085aa4b70314d715539324ac639c40b00f82998.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_89d441f028263e3c8c66a2591bdcd4aa9963e3af.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_50c0416316e69d1488d99016c83fff0a63a7b5ab.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5e403b0cdda7ef71f69101671e8fcffe1c329348.jar" />
+    </item>
+    <item
+        jar="F:\Program Files\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Projects\ANdroid\NeuroBooster\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_bf93f8e6aa663c351577f736eadce9e804b70d34.jar" />
+    </item>
+
+</items>
